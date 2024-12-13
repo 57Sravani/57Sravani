@@ -1,5 +1,5 @@
 
-👋 Hi there, I’m @57Sravani
+👋 Hi there, I’m Sravani
 🌟 I’m interested in: Python, artificial intelligence, and robotics.
 📘 I’m currently learning: Python programming.
 🤝 I’m looking to collaborate on: Open-source Python projects and AI-related innovations.
